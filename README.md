@@ -11,7 +11,7 @@
 
 # Como utilizar?
 
-### Essa calculadora foi desenvolvida para calcular a parcial de auditorias de etiquetas, presença e ruptura!
+### Essa programa foi desenvolvido para calcular a parcial de auditorias de etiquetas, presença e ruptura!
 
 
 Primeiro você deve obter o SKU atual da loja e colocar no aplicativo para depois clicar no botão "Calcular Parcial" e selecionar o arquivo de planilha baixado do site RUB, lembrando que para funcionar você deve ir na pagina da auditoria do dia atual e clicar no botão "Relatório de itens" e usar o filtro "Não lidos com estoque" na pagina, isso não se aplica para a auditoria de ruptura pois nessa parte você deve selecionar a linha "Auditoria de Ruptura: Lista d.." e depois clicar no botão da parte de baixo "Sem Presença e Com Estoque" e logo após clicar em "Gerar XLSX" e após isso utilizar a calculadora de parcial!

@@ -227,7 +227,7 @@ def calcular_tabela():
 
 janela.title("Parcial Da Auditoria")
 janela.geometry("925x552")
-img = ImageTk.PhotoImage(Image.open("img/background.png"))
+img = ImageTk.PhotoImage(Image.open("background.png"))
 imglabel = Label(janela, image=img).place(x=0, y=30)
 
 SKU = Entry(janela, width=5, bg="#2a6099", fg="white")

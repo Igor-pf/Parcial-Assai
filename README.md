@@ -1,12 +1,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
-
 # Calculadora de Parcial
 
-🚀 Este projeto é uma calculadora de Parcial desenvolvido para calcular Parcial de Auditoria das lojas locais do Assai Atacadista
+🚀 Este projeto é uma calculadora de Parcial desenvolvido para calcular Parcial de Auditoria das lojas locais do Assai Atadista
 
 [![Download](https://img.shields.io/badge/Download%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/Igor-pf/Parcial-Assai/raw/main/Instalador%20Parcial%20Auditoria.exe)
 
+#
+# Como utilizar?
+<img src="https://github.com/Igor-pf/Parcial-Assai/blob/main/screenshot.png?raw=true"  width="100%" align="center" alt="Screenshot">
 
 ## ☕ Seja um dos contribuidores
 

@@ -7,8 +7,7 @@
 [![Download](https://img.shields.io/badge/Download%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/Igor-pf/Parcial-Assai/raw/main/Instalador%20Parcial%20Auditoria.exe)
 
 #
-# Como utilizar?
-<img src="https://github.com/Igor-pf/Parcial-Assai/blob/main/screenshot.png?raw=true"  width="100%" align="center" alt="Screenshot">
+# Como utilizar? <img src="https://github.com/Igor-pf/Parcial-Assai/blob/main/screenshot.png?raw=true"  width="100%" align="center" alt="Screenshot">
 
 ## ☕ Seja um dos contribuidores
 

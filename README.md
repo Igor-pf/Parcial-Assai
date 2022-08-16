@@ -17,7 +17,7 @@
 Primeiro você deve obter o SKU atual da loja e colocar no aplicativo para depois clicar no botão "Calcular Parcial" e selecionar o arquivo de planilha baixado do site RUB, lembrando que para funcionar você deve ir na pagina da auditoria do dia atual e clicar no botão "Relatório de itens" e usar o filtro "Não lidos com estoque" na pagina, isso não se aplica para a auditoria de ruptura pois nessa parte você deve selecionar a linha "Auditoria de Ruptura: Lista d.." e depois clicar no botão da parte de baixo "Sem Presença e Com Estoque" e logo após clicar em "Gerar XLSX" e após isso utilizar a calculadora de parcial!
 
 
-<img src="https://github.com/Igor-pf/Parcial-Assai/blob/main/screenshot.png?raw=true" min-width="400px" max-width="600px" width="600px" align="center" alt="Screenshot">
+<img src="https://github.com/Igor-pf/Parcial-Assai/blob/main/screenshot.png?raw=true" width="100%" align="center" alt="Screenshot">
 
 <div > 
 </div>

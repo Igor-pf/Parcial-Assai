@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
-# Calculadora de Parcial para Auditorias do Assai Atacadista
+# Calculadora de Parcial
 
 🚀 Este projeto é uma calculadora de Parcial desenvolvido para calcular Parcial de Auditoria das lojas locais do Assai Atacadista
 
